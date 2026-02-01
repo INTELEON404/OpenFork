@@ -1,4 +1,3 @@
-
 ## YOUTUBE TUTORIALS
 
 - **[How DNS Works](https://youtu.be/72snZctFFtA)** — *DNS Made Easy Videos*
@@ -6,3 +5,5 @@
 - **[What is HTTP?](https://youtu.be/iYM2zFP3Zn0)** — *Traversy Media*
 - **[HTTP Explained in 3 minutes](https://www.youtube.com/watch?v=KvGi-UDfy00)** — *Connected Cookie*
 
+> [!WARNING]
+> JUST FOR EDU🥇
