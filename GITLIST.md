@@ -39,6 +39,7 @@
 - **[GF](https://github.com/tomnomnom/gf)** — *tomnomnom*
 - **[hakrawler](https://github.com/hakluke/hakrawler)** — *hakluke*
 - **[gobuster](https://github.com/OJ/gobuster)** — *OJ*
+- **[parafinder](https://github.com/INTELEON404/parafinder)** — *Inteleon404*
   
   
 
