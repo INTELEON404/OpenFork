@@ -18,6 +18,7 @@
 - **[Raccoon (Bug Bounty Tool)](https://github.com/evyatarmeged/Raccoon/)** — *evyatarmeged*
 - **[Can I take over XYZ?](https://github.com/EdOverflow/can-i-take-over-xyz)** — *EdOverflow*
 - **[XSS Payloads](https://github.com/orwagodfather/XSS-Payloads)** — *orwagodfather*
+- **[payloads](https://github.com/coffinxp/payloads) — *coffinxp*
 
 ---
 
@@ -44,6 +45,9 @@
 - **[iptohost](https://github.com/INTELEON404/iptohost)** — *Inteleon404*
 - **[subzy](https://github.com/PentestPad/subzy)** — *PentestPad*
 - **[subjack](https://github.com/haccer/subjack)** — *haccer*
+- **[crtmon](https://github.com/coffinxp/crtmon)** — *coffinxp*
+- **[loxs](https://github.com/coffinxp/loxs)** — *coffinxp*
+- **[customBsqli](https://github.com/coffinxp/customBsqli)** — *coffinxp*
   
   
 
