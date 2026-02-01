@@ -13,10 +13,9 @@
 
 | Category | Resource Link | Focus Area |
 | --- | --- | --- |
-| **English Content** | [🌐 English Notes](YOUTUBE.md) | Global tutorials and industry standards. |
-| **Bangla Content** | [🇧🇩 Bangla Notes](YOUTUBE-BD.md) | Localized tutorials and community tips. |
-| **Exploitation** | [🚀 Exploit Guides](YOUTUBE-EXPLOIT.md) | Advanced Pentesting & Zero-day research. |
-| **Bug Bounty & xploit** | [💰 BB Mastery](YOUTUBE-BE.md) | Recon, methodology, and bounty hunters. |
+| **English Content** | [🌐 English Notes](TUTORIALS.md) | Global tutorials and industry standards. |
+| **Bangla Content** | [🇧🇩 Bangla Notes](TUTORIALS-BD.md) | Localized tutorials and community tips. |
+| **Bug Bounty & xploit** | [💰 BB Mastery](TUTORIALS-BE.md) | Recon, methodology, and bounty hunters. |
 
 ---
 
