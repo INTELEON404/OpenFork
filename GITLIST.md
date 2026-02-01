@@ -58,6 +58,7 @@
 - **[magicRecon](https://github.com/robotshell/magicRecon)** — *robotshell*
 - **[XSStrike](https://github.com/s0md3v/XSStrike)** — *s0md3v*
 - **[Corsy](https://github.com/s0md3v/Corsy)** — *s0md3v*
+- **[S3BucketMisconf](https://github.com/Atharv834/S3BucketMisconf)** — *Atharv834*
   
   
 
