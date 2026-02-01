@@ -9,7 +9,7 @@
 
 ---
 
-## 🎬 Video Intelligence (YouTube)
+## 🎬 Video Intelligence 
 
 | Category | Resource Link | Focus Area |
 | --- | --- | --- |
