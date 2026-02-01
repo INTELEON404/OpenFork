@@ -29,10 +29,9 @@
 
 ---
 
-## ⚠️ Disclaimer
 
 > [!IMPORTANT]
-> This repository is for **educational and research purposes only**. Use all tools, tutorials, and techniques **legally and responsibly**. Unauthorized access to systems is illegal.
+> > **Disclaimer:** This repository is for **educational and research purposes only**. Use all tools, tutorials, and techniques **legally and responsibly**. Unauthorized access to systems is illegal.
 
 ---
 
