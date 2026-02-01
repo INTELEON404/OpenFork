@@ -15,10 +15,11 @@
 - **[Hacking Tools Collection](https://github.com/yogsec/Hacking-Tools)** — *yogsec*
 - **[Raccoon (Bug Bounty Tool)](https://github.com/evyatarmeged/Raccoon/)** — *evyatarmeged*
 - **[Can I take over XYZ?](https://github.com/EdOverflow/can-i-take-over-xyz)** — *EdOverflow*
+- **[XSS Payloads](https://github.com/orwagodfather/XSS-Payloads)** — *orwagodfather*
 
 ---
 
-## 🎯 Bug Bounty & Pentesting
+## 🎯 Bug Bounty & Pentesting Tools
 - **[Link Inspector](https://github.com/rix4uni/linkinspector)** — *rix4uni*
 - **[subfinder](https://github.com/projectdiscovery/subfinder)** — *projectdiscovery*
 - **[nuclei](https://github.com/projectdiscovery/nuclei)** — *projectdiscovery*
@@ -61,7 +62,6 @@
 ## 🧬 Web Vulnerabilities
 
 - **[SSTImap](https://github.com/vladko312/SSTImap)** — *vladko312*
-- **[XSS Payloads](https://github.com/orwagodfather/XSS-Payloads)** — *orwagodfather*
 - **[WraithXSS](https://github.com/Cyber-aditii/WraithXSS/)** — *Cyber-aditii*
 - **[Dracnmap](https://github.com/screetsec/Dracnmap)** — *screetsec*
 - **[Heimdall](https://github.com/DenizParlak/heimdall)** — *DenizParlak*
