@@ -10,17 +10,17 @@
 - **[The Art of Hacking (h4cker)](https://github.com/The-Art-of-Hacking/h4cker)** — *The-Art-of-Hacking*
 - **[Bug Bounty Books](https://github.com/shinch4n/bugbountybooks)** — *shinch4n*
 - **[Hacking PDF Collection](https://github.com/zapstiko/Hacking-PDF)** — *zapstiko*
-
----
-
-## 🎯 Bug Bounty & Pentesting
-
 - **[Awesome Bug Bounty](https://github.com/djadmin/awesome-bug-bounty)** — *djadmin*
 - **[API Pentesting Tools](https://github.com/yogsec/API-Pentesting-Tools)** — *yogsec*
 - **[Hacking Tools Collection](https://github.com/yogsec/Hacking-Tools)** — *yogsec*
 - **[Raccoon (Bug Bounty Tool)](https://github.com/evyatarmeged/Raccoon/)** — *evyatarmeged*
-- **[Link Inspector](https://github.com/rix4uni/linkinspector)** — *rix4uni*
 - **[Can I take over XYZ?](https://github.com/EdOverflow/can-i-take-over-xyz)** — *EdOverflow*
+
+---
+
+## 🎯 Bug Bounty & Pentesting
+- **[Link Inspector](https://github.com/rix4uni/linkinspector)** — *rix4uni*
+
 
 ---
 
