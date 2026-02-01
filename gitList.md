@@ -1,4 +1,4 @@
-# 🧠 GITLIST
+### GITLIST
 > Curated GitHub resources for **Hacking, Bug Bounty, Pentesting, Research & Learning**
 
 ---
