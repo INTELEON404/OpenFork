@@ -33,6 +33,7 @@
 - **[assetfinder](https://github.com/tomnomnom/assetfinder)** — *tomnomnom*
 - **[httprobe](https://github.com/tomnomnom/httprobe)** — *tomnomnom*
 - **[qsreplace](https://github.com/tomnomnom/qsreplace)** — *tomnomnom*
+- **[hakrawler](https://github.com/hakluke/hakrawler)** — *hakluke*
   
   
 
