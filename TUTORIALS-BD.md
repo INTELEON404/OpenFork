@@ -1,4 +1,4 @@
-## YOUTUBE TUTORIALS BANGLA
+## TUTORIALS BANGLA
 
 - **[DEMO](https://youtu.be/DEMO)** — *DEMO*
 
