@@ -20,7 +20,13 @@
 
 ## 🎯 Bug Bounty & Pentesting
 - **[Link Inspector](https://github.com/rix4uni/linkinspector)** — *rix4uni*
-
+- **[subfinder](https://github.com/projectdiscovery/subfinder)** — *projectdiscovery*
+- **[nuclei](https://github.com/projectdiscovery/nuclei)** — *projectdiscovery*
+- **[naabu](https://github.com/projectdiscovery/naabu)** — *projectdiscovery*
+- **[asnmap](https://github.com/projectdiscovery/asnmap)** — *projectdiscovery*
+- **[katana](https://github.com/projectdiscovery/katana)** — *projectdiscovery*
+- **[nuclei](https://github.com/projectdiscovery/nuclei)** — *projectdiscovery*
+  
 
 ---
 
