@@ -23,7 +23,7 @@
 
 | Source | Resource Link | Description |
 | --- | --- | --- |
-| **Curated Lists** | [📜 GitList](GITLIST.md) | "Hacker-style" collections of rare repos. |
+| **Curated Lists** | [📜 GITLIST](GITLIST.md) | "Hacker-style" collections of rare repos. |
 
 
 ---
