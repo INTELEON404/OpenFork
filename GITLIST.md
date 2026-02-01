@@ -36,6 +36,7 @@
 - **[qsreplace](https://github.com/tomnomnom/qsreplace)** — *tomnomnom*
 - **[GF](https://github.com/tomnomnom/gf)** — *tomnomnom*
 - **[hakrawler](https://github.com/hakluke/hakrawler)** — *hakluke*
+- **[gobuster](https://github.com/OJ/gobuster) — *OJ*
   
   
 
