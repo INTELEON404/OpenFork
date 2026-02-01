@@ -83,11 +83,6 @@
 
 ---
 
-## ⚠️ Disclaimer
-This repository is for **educational and research purposes only**.  
-Use tools and techniques **responsibly and legally**.
+> [!WARNING]
+> **Disclaimer:** This repository is for **educational and research purposes only**. Use tools and techniques **responsibly and legally**.
 
----
-
-⭐ **Star this repo if it helps you learn**  
-🧠 Maintained as part of **GITLIST**
