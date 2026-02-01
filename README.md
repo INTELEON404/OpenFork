@@ -15,7 +15,7 @@
 | --- | --- | --- |
 | **English Content** | [🌐 English Notes](TUTORIALS.md) | Global tutorials and industry standards. |
 | **Bangla Content** | [🇧🇩 Bangla Notes](TUTORIALS-BD.md) | Localized tutorials and community tips. |
-| **Bug Bounty & xploit** | [💰 BB Mastery](TUTORIALS-BE.md) | Recon, methodology, and bounty hunters. |
+| **Bug Bounty & Exploit** | [💰 BB Mastery](TUTORIALS-BE.md) | Recon, methodology, and bounty hunters. |
 
 ---
 
