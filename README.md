@@ -13,10 +13,10 @@
 
 | Category | Resource Link | Focus Area |
 | --- | --- | --- |
-| **English Content** | [🌐 English Notes](Youtube-En.md) | Global tutorials and industry standards. |
-| **Bangla Content** | [🇧🇩 Bangla Notes](Youtube-Ban.md) | Localized tutorials and community tips. |
-| **Exploitation** | [🚀 Exploit Guides](Youtube-Exploit.md) | Advanced Pentesting & Zero-day research. |
-| **Bug Bounty** | [💰 BB Mastery](Youtube-BB.md) | Recon, methodology, and bounty hunters. |
+| **English Content** | [🌐 English Notes](YOUTUBE.md) | Global tutorials and industry standards. |
+| **Bangla Content** | [🇧🇩 Bangla Notes](YOUTUBE-BD.md) | Localized tutorials and community tips. |
+| **Exploitation** | [🚀 Exploit Guides](YOUTUBE-EXPLOIT.md) | Advanced Pentesting & Zero-day research. |
+| **Bug Bounty** | [💰 BB Mastery](YOUTUBE-BB.md) | Recon, methodology, and bounty hunters. |
 
 ---
 
@@ -24,7 +24,7 @@
 
 | Source | Resource Link | Description |
 | --- | --- | --- |
-| **Curated Lists** | [📜 GitList](gitlist.md) | "Hacker-style" collections of rare repos. |
+| **Curated Lists** | [📜 GitList](GITLIST.md) | "Hacker-style" collections of rare repos. |
 
 
 ---
