@@ -61,6 +61,7 @@
 - **[S3BucketMisconf](https://github.com/Atharv834/S3BucketMisconf)** — *Atharv834*
 - **[psudohash](https://github.com/t3l3machus/psudohash)** — *t3l3machus*
 - **[Pompem](https://github.com/rfunix/Pompem)** — *rfunix*
+- **[reconftw](https://github.com/six2dez/reconftw)** — *six2dez*
   
   
 
