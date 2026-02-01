@@ -20,6 +20,7 @@
 - **[Hacking Tools Collection](https://github.com/yogsec/Hacking-Tools)** — *yogsec*
 - **[Raccoon (Bug Bounty Tool)](https://github.com/evyatarmeged/Raccoon/)** — *evyatarmeged*
 - **[Link Inspector](https://github.com/rix4uni/linkinspector)** — *rix4uni*
+- **[Can I take over XYZ?](https://github.com/EdOverflow/can-i-take-over-xyz)** — *EdOverflow*
 
 ---
 
