@@ -49,6 +49,7 @@
 - **[loxs](https://github.com/coffinxp/loxs)** — *coffinxp*
 - **[customBsqli](https://github.com/coffinxp/customBsqli)** — *coffinxp*
 - **[certhunt](https://github.com/INTELEON404/certhunt)** — *Inteleon404*
+- **[torghost](https://github.com/INTELEON404/torghost)** — *Inteleon404*
   
   
 
