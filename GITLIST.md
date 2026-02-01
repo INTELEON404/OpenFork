@@ -25,7 +25,10 @@
 - **[naabu](https://github.com/projectdiscovery/naabu)** — *projectdiscovery*
 - **[asnmap](https://github.com/projectdiscovery/asnmap)** — *projectdiscovery*
 - **[katana](https://github.com/projectdiscovery/katana)** — *projectdiscovery*
-- **[nuclei](https://github.com/projectdiscovery/nuclei)** — *projectdiscovery*
+- **[httpx](https://github.com/projectdiscovery/httpx)** — *projectdiscovery*
+- **[cvemap](https://github.com/projectdiscovery/cvemap)** — *projectdiscovery*
+- **[urlfinder](https://github.com/projectdiscovery/urlfinder)** — *projectdiscovery*
+  
   
 
 ---
