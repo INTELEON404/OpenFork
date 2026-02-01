@@ -42,6 +42,7 @@
 - **[parafinder](https://github.com/INTELEON404/parafinder)** — *Inteleon404*
 - **[chaos-client](https://github.com/projectdiscovery/chaos-client)** — *projectdiscovery*
 - **[iptohost](https://github.com/INTELEON404/iptohost)** — *Inteleon404*
+- **[subzy](https://github.com/PentestPad/subzy)** — *PentestPad*
   
   
 
