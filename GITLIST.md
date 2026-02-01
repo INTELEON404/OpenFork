@@ -30,6 +30,9 @@
 - **[urlfinder](https://github.com/projectdiscovery/urlfinder)** — *projectdiscovery*
 - **[alterx](https://github.com/projectdiscovery/alterx)** — *projectdiscovery*
 - **[waybackurls](https://github.com/tomnomnom/waybackurls)** — *tomnomnom*
+- **[assetfinder](https://github.com/tomnomnom/assetfinder)** — *tomnomnom*
+- **[httprobe](https://github.com/tomnomnom/httprobe)** — *tomnomnom*
+- **[qsreplace](https://github.com/tomnomnom/qsreplace)** — *tomnomnom*
   
   
 
