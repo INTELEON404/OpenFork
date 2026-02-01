@@ -28,6 +28,8 @@
 - **[httpx](https://github.com/projectdiscovery/httpx)** — *projectdiscovery*
 - **[cvemap](https://github.com/projectdiscovery/cvemap)** — *projectdiscovery*
 - **[urlfinder](https://github.com/projectdiscovery/urlfinder)** — *projectdiscovery*
+- **[alterx](https://github.com/projectdiscovery/alterx)** — *projectdiscovery*
+- **[waybackurls](https://github.com/tomnomnom/waybackurls)** — *tomnomnom*
   
   
 
