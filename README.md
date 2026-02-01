@@ -37,9 +37,8 @@ To give **OpenFork** a sleek, dashboard-like feel, I have converted all the bull
 
 | Source | Resource Link | Description |
 | --- | --- | --- |
-| **Curated Lists** | [📜 GitList](https://www.google.com/search?q=GitList.md) | "Hacker-style" collections of rare repos. |
+| **Curated Lists** | [📜 GitList](https://github.com/INTELEON404/OpenFork/blob/main/GitList.md) | "Hacker-style" collections of rare repos. |
 | **Security Tools** | [⚙️ OpenSource Tools](https://www.google.com/search?q=GitHub-Tools.md) | Essential software for your toolkit. |
-| **CTF Hub** | [🏁 CTF Resources](https://www.google.com/search?q=GitHub-CTF.md) | Walkthroughs, scripts, and flag-hunting. |
 
 ---
 
