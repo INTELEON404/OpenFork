@@ -1,57 +1,86 @@
-# 🧠 OpenFork
-> Your cross-platform hub for curated cybersecurity, hacking, bug bounty, and tech resources from YouTube, GitHub, Facebook, and more.
+To give **OpenFork** a sleek, dashboard-like feel, I have converted all the bullet points into structured tables. This layout makes the repository look like a professional workstation or a "Command Center."
 
 ---
 
-## 📚 Notes & Resources
+# <p align="center">🧠 OpenFork</p>
 
-### 🎬 YouTube Guides
-- **[YouTube English Notes](Youtube-En.md)** — *Curated English tutorials, tips, and playlists*
-- **[YouTube Bangla Notes](Youtube-Ban.md)** — *Curated Bangla tutorials, tips, and playlists*
-- **[YouTube Exploit Tutorials](Youtube-Exploit.md)** — *Exploitation and penetration testing tutorials*
-- **[YouTube Bug Bounty Videos](Youtube-BB.md)** — *Bug bounty and ethical hacking guides*
+<p align="center">
+<img src="[https://img.shields.io/badge/Maintained%3F-yes-green.svg](https://www.google.com/search?q=https://img.shields.io/badge/Maintained%253F-yes-green.svg)" alt="Maintained">
+<img src="[https://img.shields.io/badge/Focus-Cybersecurity%20](https://www.google.com/search?q=https://img.shields.io/badge/Focus-Cybersecurity%2520)|%20Hacking-red.svg" alt="Focus">
+<img src="[https://img.shields.io/badge/License-MIT-blue.svg](https://www.google.com/search?q=https://img.shields.io/badge/License-MIT-blue.svg)" alt="License">
+<img src="[https://img.shields.io/badge/Platform-Cross--Platform-orange.svg](https://www.google.com/search?q=https://img.shields.io/badge/Platform-Cross--Platform-orange.svg)" alt="Platform">
+</p>
 
-### 🔗 GitHub Collections
-- **[GitList](GitList.md)** — *Hacker-style curated GitHub repositories, tools, and labs*
-- **[OpenSource Tools](GitHub-Tools.md)** — *Useful security and penetration testing tools*
-- **[CTF Resources](GitHub-CTF.md)** — *Capture The Flag challenges, walkthroughs, and scripts*
+<p align="center">
+<strong>Your cross-platform hub for curated cybersecurity, hacking, and tech intelligence.</strong>
 
-### 🌐 Social Media & Community Notes
-- **[Facebook Security Pages](FB-Security.md)** — *Curated cybersecurity and hacking content from FB pages*
-- **[Twitter / X Threads](Twitter-Security.md)** — *Hacker tips, exploits, and research threads*
-- **[Reddit Security Subreddits](Reddit-Sec.md)** — *Communities for bug bounty, hacking, and pentesting*
 
-### 🧪 Labs & Practice
-- **[TryHackMe Notes](THM-Notes.md)** — *THM room walkthroughs and tips*
-- **[HackTheBox Notes](HTB-Notes.md)** — *HTB challenges, writeups, and exploits*
-- **[VulnHub Notes](VulnHub-Notes.md)** — *Practice VMs and penetration testing notes*
 
-### 📝 Personal Research & Experiments
-- **[CVE Research](CVE-Research.md)** — *Curated CVEs and vulnerability research*
-- **[Payload Experiments](Payload-Notes.md)** — *Payload testing and custom scripts*
-- **[Automation Scripts](Automation-Notes.md)** — *Security scripts and workflow automation*
+
+<i>Aggregating the best of YouTube, GitHub, and the Global Security Community.</i>
+</p>
 
 ---
 
-## ⚡ About OpenFork
-OpenFork is a **centralized knowledge hub** for cybersecurity enthusiasts.  
-It organizes tutorials, cheat sheets, tools, CVEs, labs, and social media insights in **one place**, supporting multiple platforms and languages.
+## 🎬 Video Intelligence (YouTube)
+
+| Category | Resource Link | Focus Area |
+| --- | --- | --- |
+| **English Content** | [🌐 English Notes](https://www.google.com/search?q=Youtube-En.md) | Global tutorials and industry standards. |
+| **Bangla Content** | [🇧🇩 Bangla Notes](https://www.google.com/search?q=Youtube-Ban.md) | Localized tutorials and community tips. |
+| **Exploitation** | [🚀 Exploit Guides](https://www.google.com/search?q=Youtube-Exploit.md) | Advanced Pentesting & Zero-day research. |
+| **Bug Bounty** | [💰 BB Mastery](https://www.google.com/search?q=Youtube-BB.md) | Recon, methodology, and bounty hunters. |
 
 ---
 
-## 🌟 Future Plans
-- Add **interactive dashboards** for notes.  
-- Embed **GIFs and visual demos** for tutorials.  
-- Include **downloadable scripts and cheat sheets**.  
-- Keep all notes **multi-language** and platform-agnostic.
+## 🛠️ GitHub Arsenals & Tools
+
+| Source | Resource Link | Description |
+| --- | --- | --- |
+| **Curated Lists** | [📜 GitList](https://www.google.com/search?q=GitList.md) | "Hacker-style" collections of rare repos. |
+| **Security Tools** | [⚙️ OpenSource Tools](https://www.google.com/search?q=GitHub-Tools.md) | Essential software for your toolkit. |
+| **CTF Hub** | [🏁 CTF Resources](https://www.google.com/search?q=GitHub-CTF.md) | Walkthroughs, scripts, and flag-hunting. |
+
+---
+
+## 🌐 Social Media & Intel
+
+| Platform | Resource Link | Insight Provided |
+| --- | --- | --- |
+| **Facebook** | [👥 FB Security](https://www.google.com/search?q=FB-Security.md) | Community discussions & page alerts. |
+| **Twitter / X** | [🐦 X Threads](https://www.google.com/search?q=Twitter-Security.md) | Real-time exploit drops & research. |
+| **Reddit** | [🤖 Reddit Sec](https://www.google.com/search?q=Reddit-Sec.md) | Crowdsourced knowledge & subreddits. |
+
+---
+
+## 🧪 Labs & Practice (Hands-on)
+
+| Platform | Resource Link | Content Type |
+| --- | --- | --- |
+| **TryHackMe** | [🎯 THM Notes](https://www.google.com/search?q=THM-Notes.md) | Guided rooms and pathway writeups. |
+| **HackTheBox** | [📦 HTB Notes](https://www.google.com/search?q=HTB-Notes.md) | Hardcore machine exploits & labs. |
+| **VulnHub** | [🖥️ VulnHub Notes](https://www.google.com/search?q=VulnHub-Notes.md) | Local VM penetration testing labs. |
+
+---
+
+## 📝 Research & Development
+
+| Project | Resource Link | Current Status |
+| --- | --- | --- |
+| **Vulnerability** | [🔍 CVE Research](https://www.google.com/search?q=CVE-Research.md) | Analyzing recent security flaws. |
+| **Scripting** | [🧪 Payload Lab](https://www.google.com/search?q=Payload-Notes.md) | Custom script testing and experiments. |
+| **Automation** | [⚡ Automation](https://www.google.com/search?q=Automation-Notes.md) | Workflow scripts to save time. |
 
 ---
 
 ## ⚠️ Disclaimer
-This repository is for **educational and research purposes only**.  
-Use all tools, tutorials, and techniques **legally and responsibly**.
+
+> [!IMPORTANT]
+> This repository is for **educational and research purposes only**. Use all tools, tutorials, and techniques **legally and responsibly**. Unauthorized access to systems is illegal.
 
 ---
 
-⭐ Star this repo if it helps you learn!  
-🧠 Maintained as part of **OpenFork**
+<p align="left">
+⭐ <b>Star this repo if it helps you learn!</b> ⭐
+</p>
+
