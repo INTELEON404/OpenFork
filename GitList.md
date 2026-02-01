@@ -37,6 +37,7 @@
 - **[CVE‑2025‑55182 Scanner](https://github.com/fatguru/CVE-2025-55182-scanner)** — *fatguru*
 - **[CVE‑2025‑55182 Research](https://github.com/msanft/CVE-2025-55182)** — *msanft*
 - **[Advanced CVE‑2025‑55182 Scanner](https://github.com/zack0x01/CVE-2025-55182-advanced-scanner-)** — *zack0x01*
+- **[React2Shell Ultimate](https://github.com/hackersatyamrastogi/react2shell-ultimate)** — *hackersatyamrastogi*
 
 ---
 
@@ -63,7 +64,6 @@
 
 - **[Android PIN Bruteforce](https://github.com/urbanadventurer/Android-PIN-Bruteforce)** — *urbanadventurer*
 - **[GPS Tracking](https://github.com/localhostvicky/GPS_Tracking)** — *localhostvicky*
-- **[React2Shell Ultimate](https://github.com/hackersatyamrastogi/react2shell-ultimate)** — *hackersatyamrastogi*
 - **[CiLocks](https://github.com/tegal1337/CiLocks)** — *tegal1337*
 
 ---
