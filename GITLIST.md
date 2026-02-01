@@ -54,6 +54,8 @@
 - **[RevealKeys](https://github.com/INTELEON404/RevealKeys)** — *Inteleon404*
 - **[torghost](https://github.com/INTELEON404/torghost)** — *Inteleon404*
 - **[revlookup](https://github.com/yHunterDep/revlookup)** — *yHunterDep*
+- **[waymore](https://github.com/xnl-h4ck3r/waymore)** — *xnl-h4ck3r*
+- **[magicRecon](https://github.com/robotshell/magicRecon)**  — *robotshell*
   
   
 
