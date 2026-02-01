@@ -18,7 +18,7 @@
 - **[Raccoon (Bug Bounty Tool)](https://github.com/evyatarmeged/Raccoon/)** — *evyatarmeged*
 - **[Can I take over XYZ?](https://github.com/EdOverflow/can-i-take-over-xyz)** — *EdOverflow*
 - **[XSS Payloads](https://github.com/orwagodfather/XSS-Payloads)** — *orwagodfather*
-- **[payloads](https://github.com/coffinxp/payloads) — *coffinxp*
+- **[payloads](https://github.com/coffinxp/payloads)** — *coffinxp*
 
 ---
 
