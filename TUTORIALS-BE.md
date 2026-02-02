@@ -20,7 +20,7 @@
   Creator: *𝙇𝙤𝙨𝙩𝙨𝙚𝙘*  
   Platform: *Youtube*
 
-  - **[OpenRedirect vulnerability Mass Hunting | Bug bounty poc](https://www.youtube.com/watch?v=i9kR2bFvHI0)**  
+- **[OpenRedirect vulnerability Mass Hunting | Bug bounty poc](https://www.youtube.com/watch?v=i9kR2bFvHI0)**  
   Creator: *𝙇𝙤𝙨𝙩𝙨𝙚𝙘*  
   Platform: *Youtube*
 
