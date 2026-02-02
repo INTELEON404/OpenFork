@@ -16,5 +16,9 @@
   Creator: *𝙇𝙤𝙨𝙩𝙨𝙚𝙘*  
   Platform: *Youtube*
 
+- **[CORS Vulnerability mass hunting on Dell Bounty program worth 500$](https://www.youtube.com/watch?v=fMgjmhxN9uI)**  
+  Creator: *𝙇𝙤𝙨𝙩𝙨𝙚𝙘*  
+  Platform: *Youtube*
+
 
 
