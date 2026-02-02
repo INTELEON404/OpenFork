@@ -12,4 +12,9 @@
   Creator: *𝙇𝙤𝙨𝙩𝙨𝙚𝙘*  
   Platform: *Youtube*
 
+- **[WAF Bypass Masterclass: SQLMap + Proxychains + Tamper Scripts(Cloudflare/Modsecurity)](https://www.youtube.com/watch?v=uM07x4GNcWE)**  
+  Creator: *𝙇𝙤𝙨𝙩𝙨𝙚𝙘*  
+  Platform: *Youtube*
+
+
 
