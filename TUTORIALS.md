@@ -15,5 +15,6 @@
 - **[HTTP Explained in 3 minutes](https://www.youtube.com/watch?v=KvGi-UDfy00)**  
   Creator: *Connected Cookie*  
   Platform: *Youtube*
-
-> ⚠️ **WARNING:** This content is for **educational purposes only** 🥇
+  
+> [!WARNING]
+> This content is for **educational purposes only** 🥇
