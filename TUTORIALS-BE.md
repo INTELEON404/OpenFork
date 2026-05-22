@@ -25,5 +25,9 @@
   Platform: *Youtube*
 
 
+- **[I Used Claude Code to Exploit SQL Injection](https://youtu.be/Rph0ic0a6Dg?si=7UQeL4H_pYOZfw_7)**  
+  Creator: *Medusa*  
+  Platform: *Youtube*
+
 
 
