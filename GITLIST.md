@@ -62,6 +62,7 @@
 - **[psudohash](https://github.com/t3l3machus/psudohash)** — *t3l3machus*
 - **[Pompem](https://github.com/rfunix/Pompem)** — *rfunix*
 - **[reconftw](https://github.com/six2dez/reconftw)** — *six2dez*
+- **[Recon](https://github.com/dirsoooo/Recon)** — *dirsoooo*
   
   
 
